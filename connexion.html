@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SIRH - Atelier Digital</title>
+    <link rel="stylesheet" href="connexion.css">
+</head>
+<body>
+    <header>    
+        <div class="logo">
+            <a href="connexion.html"><img src="logo.png" alt="Logo"></a>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="connexion.html">Accueil</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div class="login-container">
+            <h2>Connexion</h2>
+            <p class="login-subtitle">Accédez à votre espace personnel</p>
+            <div class="form">
+                <form id="login-form" method="POST" action="login.php">
+                    <input type="text" name="name" placeholder="Nom d'utilisateur" required><br><br>
+                    <input type="password" name="password" placeholder="Mot de passe" required><br><br>
+                    <button type="submit">Se connecter</button>
+                </form>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <p>Projet SIRH / Héloïse - Simon - Léna - Ilhan</p>
+    </footer>
+</body>
+</html>

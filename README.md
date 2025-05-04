@@ -1,4 +1,4 @@
-# SIRH
+## SIRH
 
 #Pour utiliser ce site il vous faudra installer la Base de données en .sql Sur Mysql Perso avec Xampp/apache
 

@@ -6,6 +6,6 @@
 
 #j'ai utilisé Chart.js pour faire les graphiques La Doc : [https://www.chartjs.org/](https://www.chartjs.org/)
 
-# Pour installer xampp : [https://www.chartjs.org/](https://www.apachefriends.org/fr/download.html)
+#Pour installer xampp : [https://www.chartjs.org/](https://www.apachefriends.org/fr/download.html)
 
 

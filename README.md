@@ -19,5 +19,5 @@
  - pour utiliser le site avec toutes les fonctionnalitées : username = admin
                                                             password = admin123
 
--  - j'ai utilisé Chart.js pour faire les graphiques La Doc : [https://www.chartjs.org/](https://www.chartjs.org/)
+- j'ai utilisé Chart.js pour faire les graphiques La Doc : [https://www.chartjs.org/](https://www.chartjs.org/)
 

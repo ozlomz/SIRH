@@ -8,4 +8,6 @@
 
 #Pour installer xampp : [https://www.apachefriends.org/fr/download.html](https://www.apachefriends.org/fr/download.html)
 
+#La base de données sur acces est le .accdb mais la partition de celle ci utilisée pour le site est le .sql 
+
 

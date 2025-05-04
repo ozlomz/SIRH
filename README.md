@@ -11,7 +11,7 @@
  - La base de données sur acces est le .accdb mais la partition de celle ci utilisée pour le site est le .sql
  - pour lancer MYSQL dans le navigateur [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/) 
  
- - dans my sql creer une Base de données puis dans la base de données que vous avez crée faite importer puis importez le .sql vous pourrez donc constater des changements faits dans gestion_admin.php
+ - dans MYSQL créez une Base de données puis dans la base de données que vous avez crée faite importer puis importez le .sql vous pourrez donc constater des changements faits dans gestion_admin.php
 
  - le dossier etant a lancer en local il faudra marquer dans votre navigateur une fois le tout installé :
  - [http://localhost/atelier_digi/connexion.html](http://localhost/"le_nom_de_votre_dossier"/connexion.html) Pour le site en lui meme 

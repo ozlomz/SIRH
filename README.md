@@ -18,4 +18,6 @@
  - [http://localhost/phpmyadmin/index.php?route=/database/structure&db=employes.db](http://localhost/phpmyadmin/index.php?route=/database/structure&db=employes.db) pour MYSQL
  - [http://localhost/atelier_digi/connexion.html](http://localhost/atelier_digi/connexion.html) Pour le site en lui meme 
 
+ - pour utiliser le site avec toutes les fonctionnalitées : username = admin
+                                                            password = admin123
 
